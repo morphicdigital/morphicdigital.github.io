@@ -35,7 +35,9 @@ body {
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size: 2em;
-	border: solid orange;
+	border-style: solid;
+	border-width: 3px;
+	border-color: orange;
 	box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.6);
 }
 
